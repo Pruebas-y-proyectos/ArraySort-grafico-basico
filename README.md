@@ -1,3 +1,3 @@
 # Visualizador grafico basico de un BubbleSort en Java.
 
-![Imagen](src/img.png)
+![Imagen](src/img.PNG)
