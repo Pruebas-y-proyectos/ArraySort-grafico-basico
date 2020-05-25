@@ -11,7 +11,7 @@ public class Visualizador {
 	static Visualizador visualizador;
 
 	public Visualizador() {
-		frame = new JFrame("Visualizador de metodos Sort");
+		frame = new JFrame("Visualizador del metodo BubbleSort");
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setResizable(false);
 
