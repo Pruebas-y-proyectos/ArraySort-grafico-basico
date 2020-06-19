@@ -1,3 +1,5 @@
-# Visualizador grafico basico de un BubbleSort en Java.
+# Visualizador grafico basico de un Bubble Sort en Java.
 
-![Imagen](src/img.PNG)
+Aplicacion sencilla para visualizar la ordenacion de un array.
+
+![Video](src/video.gif)
